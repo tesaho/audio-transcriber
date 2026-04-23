@@ -28,6 +28,11 @@ python transcriber.py --audio episode.mp3 --title "My Episode"
 
 See [CLAUDE.md](CLAUDE.md) for full setup instructions, API reference, architecture details, and configuration options.
 
+## Estimated Costs
+
+<img width="465" height="418" alt="image" src="https://github.com/user-attachments/assets/804be63c-7acc-44ae-b4e6-23b38efd57db" />
+
+
 ## License
 
 [CC BY-NC 4.0](LICENSE) — open source for non-commercial use.
